@@ -16,6 +16,19 @@
 		E4C3FEB32C78B98E0049A763 /* TelasSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEB22C78B98E0049A763 /* TelasSwiftTests.swift */; };
 		E4C3FEBD2C78B98E0049A763 /* TelasSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEBC2C78B98E0049A763 /* TelasSwiftUITests.swift */; };
 		E4C3FEBF2C78B98E0049A763 /* TelasSwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEBE2C78B98E0049A763 /* TelasSwiftUITestsLaunchTests.swift */; };
+		E4C3FED02C78BB680049A763 /* TelaAzulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FECF2C78BB680049A763 /* TelaAzulView.swift */; };
+		E4C3FED22C78BCA20049A763 /* TelaAzulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FED12C78BCA20049A763 /* TelaAzulViewController.swift */; };
+		E4C3FED52C78BD220049A763 /* ViewDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FED42C78BD220049A763 /* ViewDefault.swift */; };
+		E4C3FED72C78BD800049A763 /* ViewControllerDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FED62C78BD800049A763 /* ViewControllerDefault.swift */; };
+		E4C3FEDA2C78BE790049A763 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FED92C78BE790049A763 /* Coordinator.swift */; };
+		E4C3FEDC2C78BE900049A763 /* TelaAzulCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEDB2C78BE900049A763 /* TelaAzulCoordinator.swift */; };
+		E4C3FEDE2C78C0980049A763 /* ButtonDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEDD2C78C0980049A763 /* ButtonDefault.swift */; };
+		E4C3FEE12C78C66B0049A763 /* TelaVerdeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEE02C78C66B0049A763 /* TelaVerdeView.swift */; };
+		E4C3FEE32C78C7C30049A763 /* TelaVerdeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEE22C78C7C30049A763 /* TelaVerdeViewController.swift */; };
+		E4C3FEE52C78C8370049A763 /* TelaVerdeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEE42C78C8370049A763 /* TelaVerdeCoordinator.swift */; };
+		E4C3FEE82C78CBA90049A763 /* TelaVermelhaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEE72C78CBA90049A763 /* TelaVermelhaView.swift */; };
+		E4C3FEEA2C78CC280049A763 /* TelaVermelhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEE92C78CC280049A763 /* TelaVermelhaViewController.swift */; };
+		E4C3FEEE2C78CCD20049A763 /* TelaVermelhaCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C3FEED2C78CCD20049A763 /* TelaVermelhaCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +62,19 @@
 		E4C3FEB82C78B98E0049A763 /* TelasSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TelasSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4C3FEBC2C78B98E0049A763 /* TelasSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasSwiftUITests.swift; sourceTree = "<group>"; };
 		E4C3FEBE2C78B98E0049A763 /* TelasSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4C3FECF2C78BB680049A763 /* TelaAzulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulView.swift; sourceTree = "<group>"; };
+		E4C3FED12C78BCA20049A763 /* TelaAzulViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulViewController.swift; sourceTree = "<group>"; };
+		E4C3FED42C78BD220049A763 /* ViewDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDefault.swift; sourceTree = "<group>"; };
+		E4C3FED62C78BD800049A763 /* ViewControllerDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDefault.swift; sourceTree = "<group>"; };
+		E4C3FED92C78BE790049A763 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		E4C3FEDB2C78BE900049A763 /* TelaAzulCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulCoordinator.swift; sourceTree = "<group>"; };
+		E4C3FEDD2C78C0980049A763 /* ButtonDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDefault.swift; sourceTree = "<group>"; };
+		E4C3FEE02C78C66B0049A763 /* TelaVerdeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeView.swift; sourceTree = "<group>"; };
+		E4C3FEE22C78C7C30049A763 /* TelaVerdeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeViewController.swift; sourceTree = "<group>"; };
+		E4C3FEE42C78C8370049A763 /* TelaVerdeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeCoordinator.swift; sourceTree = "<group>"; };
+		E4C3FEE72C78CBA90049A763 /* TelaVermelhaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaView.swift; sourceTree = "<group>"; };
+		E4C3FEE92C78CC280049A763 /* TelaVermelhaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaViewController.swift; sourceTree = "<group>"; };
+		E4C3FEED2C78CCD20049A763 /* TelaVermelhaCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +132,8 @@
 				E4C3FEA42C78B98D0049A763 /* Assets.xcassets */,
 				E4C3FEA62C78B98D0049A763 /* LaunchScreen.storyboard */,
 				E4C3FEA92C78B98D0049A763 /* Info.plist */,
+				E4C3FECC2C78BAC80049A763 /* Resource */,
+				E4C3FECB2C78BA640049A763 /* Source */,
 			);
 			path = TelasSwift;
 			sourceTree = "<group>";
@@ -125,6 +153,81 @@
 				E4C3FEBE2C78B98E0049A763 /* TelasSwiftUITestsLaunchTests.swift */,
 			);
 			path = TelasSwiftUITests;
+			sourceTree = "<group>";
+		};
+		E4C3FECB2C78BA640049A763 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FED32C78BD100049A763 /* Infrastructure */,
+				E4C3FECD2C78BAFF0049A763 /* Controller */,
+				E4C3FED82C78BE360049A763 /* Coordinator */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		E4C3FECC2C78BAC80049A763 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		E4C3FECD2C78BAFF0049A763 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FEE62C78CB9D0049A763 /* TelaVermelha */,
+				E4C3FEDF2C78C65B0049A763 /* TelaVerde */,
+				E4C3FECE2C78BB3B0049A763 /* TelaAzul */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E4C3FECE2C78BB3B0049A763 /* TelaAzul */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FECF2C78BB680049A763 /* TelaAzulView.swift */,
+				E4C3FED12C78BCA20049A763 /* TelaAzulViewController.swift */,
+			);
+			path = TelaAzul;
+			sourceTree = "<group>";
+		};
+		E4C3FED32C78BD100049A763 /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FED42C78BD220049A763 /* ViewDefault.swift */,
+				E4C3FED62C78BD800049A763 /* ViewControllerDefault.swift */,
+				E4C3FEDD2C78C0980049A763 /* ButtonDefault.swift */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		E4C3FED82C78BE360049A763 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FED92C78BE790049A763 /* Coordinator.swift */,
+				E4C3FEDB2C78BE900049A763 /* TelaAzulCoordinator.swift */,
+				E4C3FEE42C78C8370049A763 /* TelaVerdeCoordinator.swift */,
+				E4C3FEED2C78CCD20049A763 /* TelaVermelhaCoordinator.swift */,
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		E4C3FEDF2C78C65B0049A763 /* TelaVerde */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FEE02C78C66B0049A763 /* TelaVerdeView.swift */,
+				E4C3FEE22C78C7C30049A763 /* TelaVerdeViewController.swift */,
+			);
+			path = TelaVerde;
+			sourceTree = "<group>";
+		};
+		E4C3FEE62C78CB9D0049A763 /* TelaVermelha */ = {
+			isa = PBXGroup;
+			children = (
+				E4C3FEE72C78CBA90049A763 /* TelaVermelhaView.swift */,
+				E4C3FEE92C78CC280049A763 /* TelaVermelhaViewController.swift */,
+			);
+			path = TelaVermelha;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,9 +361,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4C3FEE82C78CBA90049A763 /* TelaVermelhaView.swift in Sources */,
+				E4C3FEDA2C78BE790049A763 /* Coordinator.swift in Sources */,
 				E4C3FEA02C78B98A0049A763 /* ViewController.swift in Sources */,
 				E4C3FE9C2C78B98A0049A763 /* AppDelegate.swift in Sources */,
+				E4C3FED52C78BD220049A763 /* ViewDefault.swift in Sources */,
+				E4C3FED22C78BCA20049A763 /* TelaAzulViewController.swift in Sources */,
+				E4C3FEEE2C78CCD20049A763 /* TelaVermelhaCoordinator.swift in Sources */,
+				E4C3FEEA2C78CC280049A763 /* TelaVermelhaViewController.swift in Sources */,
+				E4C3FED02C78BB680049A763 /* TelaAzulView.swift in Sources */,
+				E4C3FEDC2C78BE900049A763 /* TelaAzulCoordinator.swift in Sources */,
+				E4C3FEE52C78C8370049A763 /* TelaVerdeCoordinator.swift in Sources */,
+				E4C3FEDE2C78C0980049A763 /* ButtonDefault.swift in Sources */,
+				E4C3FED72C78BD800049A763 /* ViewControllerDefault.swift in Sources */,
 				E4C3FE9E2C78B98A0049A763 /* SceneDelegate.swift in Sources */,
+				E4C3FEE12C78C66B0049A763 /* TelaVerdeView.swift in Sources */,
+				E4C3FEE32C78C7C30049A763 /* TelaVerdeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
